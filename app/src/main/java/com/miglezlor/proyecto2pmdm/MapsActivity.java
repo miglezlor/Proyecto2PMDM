@@ -35,6 +35,7 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
     //coordenadas redond 42.279393, -8.612143
     //coordenadas castelao 42.236812, -8.714332
     //coordenadas arenal 42.238983, -8.716033
+    
     public static Marker marcador;
     LatLng cCentro = new LatLng(42.237181, -8.714672);
     //circulo vigo 42.236954, -8.712717
